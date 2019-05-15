@@ -2,13 +2,13 @@
 
   1. Conceptualization - 10 points each
     1. ID Target Audience
-    2. Color selection (w/key written)
-    3. Contrast, Repetition, Alignment, Proximity
-  2. Analysis - 10 points each
+    1. Color selection (w/key written)
+    1. Contrast, Repetition, Alignment, Proximity
+  1. Analysis - 10 points each
     1. Determine Content Requirements
     2. Review Competitor
     3. Determine Environmental Requirements
-  3. Design - 10 points each
+  1. Design - 10 points each
     1. Design the prototype
     2. Content Documentation
   4. Production - 10 points each
