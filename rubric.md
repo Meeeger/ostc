@@ -1,5 +1,6 @@
-# Rubric for Realtor Site
-#### everything is 10pt each
+# Copy of Rubric for Realtor Site
+
+#### Everything is 10pt each
   1. Conceptualization
      * ID Target Audience
      * Color selection (w/key written)
